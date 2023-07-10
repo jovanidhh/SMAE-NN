@@ -1,0 +1,64 @@
+Alimento,Unidades,Peso unitario individual,Porción comestible,Energía (kcal/100 g),Proteína (g/100 g),Lípidos totales (g/100 g),AG Saturados (g/100 g),Colesterol (g/100 g),Hidratos de Carbono ((g/100 g),Azúcar (g/100 g),Fibra (g/100 g),"Na, Sodio [mg/100 g]"
+Nance ,gr,1,0.2,62.43,0.87,1.35,ND,ND,11.7,0,2.55,ND
+Pepino kat,gr,1,0.8,41,1.43,0.09,ND,ND,10.23,0,0.35,ND
+Huevo gallina rojo entero crudo,gr,1,0.9,145,12.2,9.3,ND,ND,2.3,0,ND,136.35
+Kibis,gr,1,1,370.1,6.6,19.7,ND,ND,41.4,0,1,455.64
+Polcanes ,gr,1,1,360.4,6.4,20,ND,ND,38.7,0,0.8,715.74
+Miel de abeja Melipona ,gr,1,1,300,0.07,0,ND,ND,75.08,ND,0,ND
+Pitahaya,gr,1,1,58.2,0.14,1.2,ND,ND,11.71,ND,1.47,ND
+Calabaza local,gr,1,1,18.6,0.08,0.05,ND,ND,4.48,ND,0.59,ND
+Repollo,gr,1,1,24.19,0.93,0.09,ND,ND,4.916,ND,0.8,ND
+Pepino blanco ,gr,1,1,10.76,0.02,0,ND,ND,2.67,ND,0.28,ND
+Epazote ,gr,1,1,61.51,3.37,0.67,ND,ND,10.5,ND,1.62,ND
+Frijol xpelón ,gr,1,1,310.89,23.37,0.97,ND,ND,52.17,ND,10.64,ND
+Ibes ,gr,1,1,318.87,20.94,0.51,ND,ND,57.63,ND,5.07,ND
+Mero crudo (pescado),gr,1,1,89.72,17.4,1.68,ND,ND,1.25,ND,1.4,ND
+Harina de Ramón ,gr,1,1,329.9,9.8,1.04,ND,ND,70.35,ND,17.73,0.0129
+Petuña ,gr,1,1,573.2,53.3,40,18,0,0,0,0,1210
+Botana mixta lupi mix ,gr,1,1,542.8,5.6,30.8,13.8,0,60.8,0,3.8,1296
+Tostaditas,gr,1,1,482.7,7.5,18.3,8.3,0,72,0,7.9,1029
+Totopitos ,gr,1,1,482.7,7.5,18.3,8.3,0,72,0,7.9,1029
+Mini charritos   Ku Torritos,gr,1,1,468,8.4,16.9,6.7,ND,70.7,4.4,3.6,1860
+Galletas de Soda,gr,1,1,330,7.3,11,5,0,50.3,4,1.7,1 453
+Galletas Dips ,gr,1,1,421,7.7,15.7,7.3,0,62.3,13.7,1.7,1 300 
+Galletas Soles,gr,1,1,531,7.7,21.7,10.7,0,76.3,22.7,1.7,400
+Galletas Bizcochitos ,gr,1,1,452,9.3,16,7.3,0,67.7,2.6,1.7,1 267 
+Galletas Animalitos ,gr,1,1,360,6.7,4,1.7,0,74.3,11,1.7,467
+Galletas Aviones ,gr,1,1,388,8.3,8.3,4,0,70,12.3,1.7,490
+Galletas Grageas ,gr,1,1,444,6.7,13,6.7,0,75,10,1.7,320
+Galletas Danesas ,gr,1,1,536,8,24,13,0,72,22.3,1.7,217
+Galletas Alicias ,gr,1,1,400,7.7,8.3,3.7,0,73.7,11.7,1.7,310
+Galletas Campechanas ,gr,1,1,385,8.3,8,4.7,0,70,18.3,1.7,510
+Galletas D´Canela,gr,1,1,469,5.7,16,8,0,75.7,21.3,1.7,347
+Galletas sabor Limón,gr,1,1,390,8,8.7,4.3,0,70,25,1.7,317
+Galletas Ovaladas,gr,1,1,396,9,3.7,1.7,0,81.7,26.3,1.7,380
+Galletas Polvorones,gr,1,1,505,6.7,25,12.7,0,63.3,20,1.7,70
+Galletas Choco Nieves,gr,1,1,488,4.7,21,11.3,0,70,16.7,1.7,53
+Galletas Nieves de vainilla,gr,1,1,491,3,25.3,13.3,0,62.7,32.3,1.7,60
+Galletas Conquistador ,gr,1,1,457,6.7,19.7,10,0,63.3,12.7,1.7,417
+Condimento chilmole ,gr,1,1,30,1,0,ND,ND,7,ND,1,980
+Salsa picante roja de chile habanero,gr,1,1,25,0,0,ND,ND,6,ND,2,1 750
+Salsa picante verde de chile habanero,gr,1,1,15,0,0,ND,ND,4,ND,1,1 850 
+Salsa picante de chile habanero ,gr,1,1,5,0.9,0,0,ND,1,0,0.9,2
+Salsa chamoy,gr,1,1,70,0,0.9,0,ND,17,12,0,1 330
+Salsa para botanas ,gr,1,1,10,0,0,ND,ND,3,2,4,1 610 
+Salsa en polvo clásico ,gr,1,1,135,6,3,1,ND,21,9,19,15
+Adobo líquido de achiote ,gr,1,1,170,19,10,ND,ND,0,0,0,760
+Jarabe de Horchata  de arroz,gr,1,1,104.55,3.24,0.39,0.2,ND,21.99,16.18,0,50.08
+Jarabe de Horchara de coco,gr,1,1,104.55,3.27,0.39,0.2,ND,21.99,16.18,0,50.08
+Jarabe de Tamarindo,gr,1,1,38.12,0,0,0,0,9.53,8.32,0,7.69
+Concentrado de Jamaica ,gr,1,1,28.44,0,0,0,0,7.11,6.2,0,4.74
+Avena Rivero en hojuelas ,gr,1,1,318.01,13.61,6.2,1.3,ND,52,0,14.7,2.8
+Avena Rivero Platano (50% menos azúcar),gr,1,1,58.26,4.06,0.54,0.19,ND,9.29,6.08,0.87,52.96
+Avena Rivero Fresa (50% menos azúcar),gr,1,1,58.05,4.05,0.53,0.19,ND,9.27,6.06,0.86,54.45
+Avena Rivero Chocolate (50% menos azúcar),gr,1,1,58.25,4.09,0.57,0.22,ND,9.19,1.38,0.95,53.01
+Cristal cebada,gr,1,1,32,0,0,0,0,8,8,0,ND
+Cristal negra sabor vainilla ,gr,1,1,30,0,0,0,0,7.5,7.5,0,ND
+Picorrones (fritura de harina de trigo),gr,1,1,464,8,20,3,ND,63,0,3,3000
+Chamoy en polvo Miguelito,gr,1,1,320.04,0,0,ND,ND,80.01,61.28,0.6,6928
+Churricos,gr,1,1,765,6.7,49,22,0,74.3,0,6.7,1760
+Charritos ,gr,1,1,548.4,7,30.8,13.8,0,60.8,0,5,890
+Panuchos de pollo,gr,1,1,212.2,11.7,11.4,ND,ND,15.7,0,0.5,251.19
+Salbutes de pollo,gr,1,1,238.8,9.7,14.8,ND,ND,16.7,0,0.2,140.25
+Puchero ,gr,1,1,58.53,3.81,2.07,ND,65.57,6.16,0,2.9,81.7
+Piñuela,gr,1,1,74.85,3.13,2.65,ND,ND,9.62,ND,0.62,ND
